@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Float_Button">#1784E9</color>
+    <color name="Dark_Float_Button">#1D2832</color>
+    <color name="Background">#282C34</color>
+    <color name="clickColor">#821e1e1e</color>
+</resources>
